@@ -2,7 +2,7 @@
 An anti brute force login system that securely stores sensible and strong usernames and passwords
 
 ### Running the program
-* Python 3: `$ python3 login.py`
+* Python 3: `$ python3 main.py`
 * Java: `$ javac Main.java`
         `$ java Main`
 
